@@ -20,3 +20,10 @@ https://shmamt.github.io/Creekside-Games/EaglercraftX.html
 
 Eaglercraft (1.12.2):
 https://shmamt.github.io/Creekside-Games/Eaglercraft-1.12.2-wasm.html
+
+People Playground:
+https://shmamt.github.io/Creekside-Games/people-playground/index.html
+
+Polytrack:
+https://shmamt.github.io/Creekside-Games/polytrack-main/polytrack-main/index.html
+
