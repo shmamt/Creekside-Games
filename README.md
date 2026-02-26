@@ -6,7 +6,7 @@ New games will be added every so often but suggestions may be made
 Basket Random:
 https://shmamt.github.io/Creekside-Games/basketrandom.html
 
-Deift Boss:
+Drift Boss:
 https://shmamt.github.io/Creekside-Games/driftboss.htm
 
 Drive Mad:
