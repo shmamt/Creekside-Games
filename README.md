@@ -27,3 +27,11 @@ https://shmamt.github.io/Creekside-Games/people-playground/index.html
 Polytrack:
 https://shmamt.github.io/Creekside-Games/polytrack-main/polytrack-main/index.html
 
+Shapez.io:
+https://shmamt.github.io/Creekside-Games/shapezio/shapez.html
+
+That's not my Neighbour:
+https://shmamt.github.io/Creekside-Games/thats-not-my-neighbor/index.html
+
+ULTRAKILL:
+https://shmamt.github.io/Creekside-Games/ultrakill/index.html
